@@ -16,7 +16,7 @@ export default {
         return {
             carousels: [
                 { text: 'Nuxtjs', color: 'primary' },
-                { text: 'Vue', color: 'info' },
+                { text: 'Vuejs', color: 'info' },
                 { text: 'Buefy', color: 'success' },
                 { text: 'Vuex', color: 'warning' },
                 { text: 'Vue-Router', color: 'danger' }
