@@ -66,9 +66,20 @@ export default {
           title: 'Inspire',
           icon: 'lightbulb',
           to: { name: 'inspire' }
+        },
+        {
+          title: 'Tick-Tac-Toe',
+          icon: 'lightbulb',
+          to: { name: 'tick' }
         }
       ]
     }
   }
 }
 </script>
+<style>
+:root {
+  --cell-size: 100px;
+  --mark-size: calc(var(--cell-size) * 0.9);
+}
+</style>
