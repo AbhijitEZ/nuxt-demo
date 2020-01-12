@@ -29,8 +29,6 @@ export default {
 
 <style scoped>
 .board {
-  width: 100vw;
-  height: 100vh;
   display: grid;
   justify-content: center;
   align-content: center;
